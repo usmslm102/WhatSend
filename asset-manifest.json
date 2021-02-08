@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/whatsend/static/css/main.92ee9db6.chunk.css",
+    "main.js": "/whatsend/static/js/main.7943a5a3.chunk.js",
+    "main.js.map": "/whatsend/static/js/main.7943a5a3.chunk.js.map",
+    "runtime-main.js": "/whatsend/static/js/runtime-main.e43e91b6.js",
+    "runtime-main.js.map": "/whatsend/static/js/runtime-main.e43e91b6.js.map",
+    "static/js/2.0fb619c2.chunk.js": "/whatsend/static/js/2.0fb619c2.chunk.js",
+    "static/js/2.0fb619c2.chunk.js.map": "/whatsend/static/js/2.0fb619c2.chunk.js.map",
+    "static/js/3.87ef825a.chunk.js": "/whatsend/static/js/3.87ef825a.chunk.js",
+    "static/js/3.87ef825a.chunk.js.map": "/whatsend/static/js/3.87ef825a.chunk.js.map",
+    "index.html": "/whatsend/index.html",
+    "service-worker.js": "/whatsend/service-worker.js",
+    "service-worker.js.map": "/whatsend/service-worker.js.map",
+    "static/css/main.92ee9db6.chunk.css.map": "/whatsend/static/css/main.92ee9db6.chunk.css.map",
+    "static/js/2.0fb619c2.chunk.js.LICENSE.txt": "/whatsend/static/js/2.0fb619c2.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/whatsend/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e43e91b6.js",
+    "static/js/2.0fb619c2.chunk.js",
+    "static/css/main.92ee9db6.chunk.css",
+    "static/js/main.7943a5a3.chunk.js"
+  ]
+}
